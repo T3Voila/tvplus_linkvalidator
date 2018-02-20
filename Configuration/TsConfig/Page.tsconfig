@@ -1,0 +1,5 @@
+mod.linkvalidator {
+    searchFields {
+        tt_content := addToList(tx_templavoilaplus_flex,tx_templavoilaplus_ds)
+    }
+}
