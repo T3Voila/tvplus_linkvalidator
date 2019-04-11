@@ -11,9 +11,9 @@ $EM_CONF[$_EXTKEY] = [
     'author_company' => 'PLUSPOL interactive GbR',
     'constraints' => [
         'depends' => [
-            'php' => '7.0.0-7.2.99',
-            'typo3' => '7.6.0-9.2.99',
-            'linkvalidator' => '7.6.0-9.2.99',
+            'php' => '7.0.0-7.3.99',
+            'typo3' => '7.6.0-9.5.99',
+            'linkvalidator' => '7.6.0-9.5.99',
             'templavoilaplus' => '7.1.2-7.99.99'
         ],
     ],
