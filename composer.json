@@ -1,5 +1,5 @@
 {
-    "name": "ppi_tvplus_linkvalidator/ppi_tvplus_linkvalidator",
+    "name": "templavoilaplus/ppi_tvplus_linkvalidator",
     "type": "typo3-cms-extension",
     "description": "Allows the Link Validator to check links inside TemplaVoilà! Plus elements.",
     "keywords": [
