@@ -1,0 +1,35 @@
+{
+    "name": "ppi_tvplus_linkvalidator/ppi_tvplus_linkvalidator",
+    "type": "typo3-cms-extension",
+    "description": "Allows the Link Validator to check links inside TemplaVoilà! Plus elements.",
+    "keywords": [
+        "TYPO3",
+        "extension",
+        "TemplaVoila"
+    ],
+    "homepage": "https://templavoila.plus/",
+    "license": ["GPL-2.0+"],
+    "authors": [
+        {
+            "name": "Alexander Opitz",
+            "email": "opitz@pluspol-interactive.de",
+            "homepage": "http://www.pluspol-interactive.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^7.6.0 || ^8.7.0 || ^9.5.0",
+        "typo3/cms-linkvalidator": "^7.6.0 || ^8.7.0 || ^9.5.0",
+        "templavoilaplus/templavoilaplus": ">=7.1.2 <7.99.99",
+        "php": ">=5.5.0 <7.3.99"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ppi\\Templavoilaplus\\Linkvalidator\\": "Classes/"
+        }
+    },
+    "replace": {
+        "ppi_tvplus_linkvalidator": "self.version",
+        "typo3-ter/ppi_tvplus_linkvalidator": "self.version"
+    },
+}
