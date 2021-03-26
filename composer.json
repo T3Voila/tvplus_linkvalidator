@@ -29,7 +29,7 @@
         }
     },
     "replace": {
-        "ppi_tvplus_linkvalidator": "self.version",
+        "templavoilaplus/ppi_tvplus_linkvalidator": "self.version",
         "typo3-ter/ppi_tvplus_linkvalidator": "self.version"
     }
 }
