@@ -1,5 +1,5 @@
 <?php
-namespace Ppi\Templavoilaplus\Linkvalidator\Xclass;
+namespace T3voila\TvplusLinkvalidator\Xclass;
 
 /*
  * This file is part of the TYPO3 CMS project.
