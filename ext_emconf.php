@@ -13,8 +13,8 @@ $EM_CONF[$_EXTKEY] = [
         'depends' => [
             'php' => '7.2.0-8.1.99',
             'typo3' => '8.7.0-11.5.99',
-            'linkvalidator' => '8.7.0-11.5.99',
-            'templavoilaplus' => '8.1.0-8.2.99',
+            'linkvalidator' => '8.7.0-12.4.99',
+            'templavoilaplus' => '8.1.0-11.2.99',
         ],
     ],
 ];
